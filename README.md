@@ -1,5 +1,5 @@
 # Classwork on using the Django ORM capability from the console
-#### You managed to get Both models and link them with a foreign key. 5/5 Score: 2/2
+#### You managed to get Both models and link them with a foreign key. You did not get them into your database fully but they are referenced in being inside your database 4/5 Score: 2/2
 ## Exercise 1:
 * Create new model for ```Author```
 - Author should have properties for ```first_name``` and ```last_name```
